@@ -1,53 +1,27 @@
-<h2> Hey there! I'm James</h2>
+### Hi there 👋 I'm James
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+### Software Developer
 
-- 🎓 &nbsp; Exploring new technologies and developing software solutions.
-- 🌱 &nbsp; Learning more about Blockchain, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design & Cybersecurity as hobbies/side hustles.
+* 👨‍💻  Currently mostly into webapps, favourite stack [create-t3-app](https://www.github.com/nexxeln/create-t3-app) stack
+* 🤝  Open Source Enthusiast
+* 🌱  Learning more about Blockchain, Systems Design and Artificial Intelligence
+* ✍️  Pursuing Graphic Design & Cybersecurity as hobbies/side hustles
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+### Tech I'm passionate about
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+<div style="display: flex;">
+  <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="Typescript" /></a>
+  <a href="https://www.reactjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" /></a>
+  <a href="https://www.nextjs.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="48" height="48" alt="NextJs" /></a>
+  <a href="https://trpc.io"><img src="https://avatars.githubusercontent.com/u/78011399?s=200&v=4" width="48" height="48" alt="tRPC"/></a>
+  <a href="https://www.tailwindcss.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="TailwindCSS" /></a>
+  <a href="https://prisma.io"><img src="https://www.prisma.io/images/favicon-32x32.png" width="48" height="48" alt="Prisma" /></a>
+  <a href="https://planetscale.com"><img src="https://avatars.githubusercontent.com/u/35612527?s=200&v=4" width="48" height="48" alt="PlanetScale" /></a>
+</div>
 
-<br/>
+### Stats
 
-<a href="https://github.com/sandipan500">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandipan500&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandipan500&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.instagram.com/sandipanb690/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sandipanb690-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:sandipanb223@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sandipanb223@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+<div style="display: flex;"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=sandipan500&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&show_icons=true" alt="sandipan500's GitHub stats" height="229" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandipan500&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&show_icons=true" alt="sandipan500's GitHub stats" height="229" />
+</div>
