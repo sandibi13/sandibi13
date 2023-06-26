@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm James
 
-### Software Developer
+### Software Developer (App & Web)
 
 * 👨‍💻  Currently mostly into webapps, favourite stack [create-t3-app](https://www.github.com/nexxeln/create-t3-app) stack
 * 🤝  Open Source Enthusiast
