@@ -1,15 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sandi
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Sandi
 =============================================================================================================================
 
-Software Developer
-------------------
+Software Developer, Cybersecurity Enthusiast
+--------------------------------------------
 
 I'm a 17 year old programmer, I've been learning coding for 5 years, I started with Web Development and later got the interest in Mobile App Development and Cybersecurity too...
 
 *   🌍  I'm currently based in India
 *   🖥️  See my portfolio at [sandibi.dev](http://sandibi.vercel.app)
 *   ✉️  You can contact me at [sandipanb223@gmail.com](mailto:sandipanb223@gmail.com)
-*   🧠  I'm learning system programming with Rust & Golang
+*   🧠  I'm learning system programming with Golang
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  I'm learning German and I use Arch btw!
 
