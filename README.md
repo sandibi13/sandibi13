@@ -1,6 +1,6 @@
 <div align="center">
 
-## **~ James ~**
+## **\~ James \~**
 
 [![](https://img.shields.io/badge/OS-Arch-informational?style=flat-square&logo=arch-linux&logoColor=white&color=1793D1)](https://archlinux.org/)
 [![](https://img.shields.io/badge/Programming%20Language-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=3178C6)](https://www.typescriptlang.org/)
