@@ -13,7 +13,7 @@
 | Name | Category | Description |
 |------|----------|-------------|
 | [Flux](https://github.com/sandibi13/flux) | [![Flux](https://img.shields.io/badge/%F0%9F%93%A6-Package%20Manager-orange?style=flat-square)](https://github.com/topics/package-manager) | A wrapper for dnf + flatpak |
-| [Wallfinity](https://github.com/sandibi13/wallfinity) | [![Wallfinity](https://img.shields.io/badge/%F0%9F%96%A8-Web%20Application-722ed1?style=flat-square)](https://github.com/topics/wallpaper) | A web app for sharing, uploading, and downloading wallpapers |
+| [Wallfinity](https://github.com/sandibi13/wallfinity) | [![Wallfinity](https://img.shields.io/badge/%F0%9F%8C%90-Web%20Application-722ed1?style=flat-square)](https://github.com/topics/wallpaper) | A web app for sharing, uploading, and downloading wallpapers |
 | [Zeno](https://github.com/sandibi13/zeno) | [![Zeno](https://img.shields.io/badge/%F0%9F%93%A6-Package%20Manager-orange?style=flat-square)](https://github.com/topics/package-manager) | A Nala-like package manager for Fedora |
 
 ━━━━━━━ ◆ ━━━━━━━
