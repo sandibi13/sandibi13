@@ -13,7 +13,6 @@
 | Name | Category | Description |
 |------|----------|-------------|
 | [Flux](https://github.com/sandibi13/flux) | [![Flux](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F-Shell%20Script-green?style=flat-square)](https://github.com/topics/shell-script) | A wrapper for dnf + flatpak |
-| [Findexa](https://findexa.vercel.app) | [![Findexa](https://img.shields.io/badge/%F0%9F%8C%90-Web%20Application-722ed1?style=flat-square)](https://github.com/topics/webapp) | An AI-Powered Financial Advisor |
 | [Zeno](https://github.com/sandibi13/zeno) | [![Zeno](https://img.shields.io/badge/%F0%9F%93%A6-Package%20Manager-orange?style=flat-square)](https://github.com/topics/package-manager) | A front-end for libdnf |
 
 ━━━━━━━ ◆ ━━━━━━━
