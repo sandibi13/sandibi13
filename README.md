@@ -1,31 +1,27 @@
-<div align="center">
+### Hi there 👋 I'm James
 
-## **\~ James \~**
+### Software Engineer
 
-[![](https://img.shields.io/badge/OS-Arch-informational?style=flat-square&logo=arch-linux&logoColor=white&color=1793D1)](https://archlinux.org/)
-[![](https://img.shields.io/badge/Programming%20Language-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=3178C6)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=007ACC)](https://code.visualstudio.com/)
+- 👨‍💻 Currently mostly into webapps and devtools. Build most stuff using the [create-t3-app](https://www.github.com/nexxeln/create-t3-app) stack
+- 🤝 Open Source Enthusiast
+- 👷‍♂️ Indie contractor
+- 🌍 Based in India 🇮🇳
+- 🧑‍🏫 "Best way to learn is to build shit" - [TheoBr](https://www.twitter.com/t3dotgg)
 
-![Profile views](https://komarev.com/ghpvc/?username=sandibi13&style=for-the-badge&color=1793D1)
+### Tech I'm passionate about
 
-━━━━━━━ ◆ ━━━━━━━
-### **Projects**
-| Name | Category | Description |
-|------|----------|-------------|
-| [Flux](https://github.com/sandibi13/flux) | [![Flux](https://img.shields.io/badge/%E2%9A%99%EF%B8%8F-Shell%20Script-green?style=flat-square)](https://github.com/topics/shell-script) | A wrapper for dnf + flatpak |
-| [Zeno](https://github.com/sandibi13/zeno) | [![Zeno](https://img.shields.io/badge/%F0%9F%93%A6-Package%20Manager-orange?style=flat-square)](https://github.com/topics/package-manager) | A front-end for libdnf |
+<div style="display: flex;">
+  <a href="https://typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript" width="48" height="48" alt="TypeScript" /></a>
+  <a href="https://react.dev/"><img src="https://cdn.simpleicons.org/react" width="48" height="48" alt="React" /></a>
+  <a href="https://nextjs.org/"><img src="https://cdn.simpleicons.org/nextdotjs" width="48" height="48" alt="Next.js" /></a>
+  <a href="https://trpc.io/"><img src="https://cdn.simpleicons.org/trpc" width="48" height="48" alt="tRPC"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss" width="48" height="48" alt="TailwindCSS" /></a>
+  <a href="https://orm.drizzle.team/"><img src="https://cdn.simpleicons.org/drizzle" width="48" height="48" alt="Drizzle" /></a>
+  <a href="https://postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql" width="48" height="48" alt="PostgreSQL" /></a>
+</div>
 
-━━━━━━━ ◆ ━━━━━━━
-### **Tools I Use**
-| Name | Description |
-|------|-------------|
-| [VSCode](https://code.visualstudio.com/) | Lightweight, powerful code editor with tons of extensions |
-| [Hyprland](https://hyprland.org/) | A modern tiling window manager |
-| [Kitty](https://sw.kovidgoyal.net/kitty/) | Fast, feature-rich GPU-based terminal emulator |
-| [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Fast, private, open-source web browser |
-| [Catppuccin Theme](https://github.com/catppuccin/catppuccin) | Warm, soothing theme for terminal, code editors, and more |
-| [Zsh](https://www.zsh.org/) | The Z shell—simple, powerful, and flexible |
+### Stats
 
-━━━━━━━ ◆ ━━━━━━━
-
+<div style="display: flex;"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=sandibi13&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&show_icons=true" alt="sandibi13's GitHub stats" height="229" />
 </div>
